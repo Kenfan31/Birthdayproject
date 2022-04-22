@@ -1,4 +1,3 @@
 print "hello world"
 print "hello git"
-print "hello ADD"
-print "hello ADD1"
+print "hello add"
